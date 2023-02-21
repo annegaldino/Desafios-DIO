@@ -1,4 +1,4 @@
-# Strogonof de Frango :chicken
+# Strogonof de Frango :scroll:
 
 ## *Ingredientes*
 
