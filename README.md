@@ -1,4 +1,4 @@
-# Livro de Receitas :book
+# Livro de Receitas :scroll:
 
 Ola! Bem vindo ao livro de Receitas
 
