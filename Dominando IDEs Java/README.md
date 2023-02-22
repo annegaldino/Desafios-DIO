@@ -114,21 +114,13 @@ Clicar com botao direito no ícone do Eclipse >> opcoes >> Manter no Dock
 
 🔺 Instalação IntelliJ IDEA Community
 
-🔸 1. Entre no site ofical do INTELLIJ
+🔸 1. Entre no site ofical do INTELLIJ (https://www.jetbrains.com/pt-br/idea/)
 
-🔸 2. Escolha a opção Community e faça o download
+🔸 2. Se você for universitário pode instalar a versão Ultimate, irá fazer um cadastro com o seu e-mail da universidade. Caso não esteja matriculado em uma universidade, escolha a opção Community e faça o download
 
-🔸 3. Descompacte a pasta e vamos para o terminal
+🔸 3. Executar o arquivo com extensão .dmg
 
-🔸 4. Abra o terminal (Ctrl + Alt + t) e entre no diretório que você descompactou No meu caso, na pasta Downloads Ideal
-
-cd Downloads/IdealC
-🔸 5. Entre na pasta bin
-
-cd bin
-🔸 6. Execute o arquivo de instalação idea.sh
-
-./idea.sh
+🔸 4. Mover o ícone do Intellij para a pasta Aplicativos e depois executar o seu Intellij já instalado!
 
 🔺 Instalação Git
 
