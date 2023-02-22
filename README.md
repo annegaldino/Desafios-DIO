@@ -1,8 +1,4 @@
-# Livro de Receitas :scroll:
+# Repositório de Desafios e Cursos DIO
 
-Ola! Bem vindo ao livro de Receitas
-
- - Strogonoff de Frango
- - Carne de panela
- - Nova Receita
-
+## Desafios:
+ - Introdução ao git e ao GitHub
