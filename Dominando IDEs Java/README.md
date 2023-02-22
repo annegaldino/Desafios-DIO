@@ -85,3 +85,23 @@ source ~/.zshenv _OU_ source ~/.bash_profile
 🔸 6. Vamos conferir mais uma vez se o Java está instalado na nossa máquina
 
 java --version
+
+🔺 Instalação Eclipse
+
+🔸 1. Entre no site oficial do Eclipse Foundation e faça o DOWNLOAD O site já identifica o sistema operacional.
+
+🔸 2. Escolha o arquivo referente ao tipo de arquitetura do seu MacOS
+
+🔸 3. Execute o arquivo de extensão .dmg e depois Eclipse Installer
+
+🔸 4. Escolha segunda a opção: Eclipse IDE for Enterprise Java and Web Developers
+
+🔸 5. Clique no folder da primeira opção e selecione o JDK que instalamos na nossa máquina.
+
+🔸 6. Mantenha as opções "create start menu entry" e "create desktop shortcut"
+
+🔸 7. Install
+
+🔸 8. Launch
+
+🔸 9. Pronto, intalação concluída!
