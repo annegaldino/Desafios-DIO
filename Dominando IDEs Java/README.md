@@ -8,11 +8,14 @@
   
   :white_check_mark: Instalação do Eclipse
   
-  :white_check_mark: Configurando o ícone no Dock
-  
-  :white_check_mark: Instalação Git
+  :white_check_mark: Configurando o ícone do Eclipse no Dock
   
   :white_check_mark: Instalação do IntelliJ
+  
+  :white_check_mark: Configurando o ícone do Eclipse no Dock
+  
+  :white_check_mark: Instalação Git
+ 
 
 :apple: MACOS
 
@@ -121,6 +124,10 @@ Clicar com botao direito no ícone do Eclipse >> opcoes >> Manter no Dock
 🔸 3. Executar o arquivo com extensão .dmg
 
 🔸 4. Mover o ícone do Intellij para a pasta Aplicativos e depois executar o seu Intellij já instalado!
+
+🔺 Configurando o ícone do Intellij no Dock
+
+Clicar com botao direito no ícone do Intellij >> opcoes >> Manter no Dock
 
 🔺 Instalação Git
 
