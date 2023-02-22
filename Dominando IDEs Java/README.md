@@ -1,11 +1,11 @@
 # Dominando IDEs Java
 
-▪️ Instalação e configuração Java no MacOS
-✅ Instalação JDK 17 LTS
-✅ Configuração de variável de ambiente
-✅ Instalação do Eclipse
-✅ Configurando o ícone no Dock
-✅ Instalação do IntelliJ
+ ▪️ Instalação e configuração Java no MacOS
+ ✅ Instalação JDK 17 LTS
+ ✅ Configuração de variável de ambiente
+ ✅ Instalação do Eclipse
+ ✅ Configurando o ícone no Dock
+ ✅ Instalação do IntelliJ
 
 :logoapple: MACOS
 
