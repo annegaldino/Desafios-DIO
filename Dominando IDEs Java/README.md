@@ -24,17 +24,17 @@ Executar o arquivo de extensão .dmg e seguir com NEXT até o final da instalaç
 
 java -version
 
-🔸4. Vamos configurar o ambiente JAVA_HOME:
+🔸 4. Vamos configurar o ambiente JAVA_HOME:
 
-4.1 Verificar o caminho da instalação do Java:
+4.1. Verificar o caminho da instalação do Java:
 
 /usr/libexec/java_home
 
-4.2 Copie o caminho que aparecerá no terminal, no meu caso:
+4.2. Copie o caminho que aparecerá no terminal, no meu caso:
 
 /Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home
 
-4.3 Descubra qual o tipo de Shell do seu MacOS:
+4.3. Descubra qual o tipo de Shell do seu MacOS:
 
 echo $SHELL
 No meu caso: /bin/zsh
@@ -47,10 +47,10 @@ nano ~/.zshenv
 
 nano ~/.bash_profile
 
-4.4 Copie o código abaixo e cole no final do arquivo:
+4.4. Copie o código abaixo e cole no final do arquivo:
 export JAVA_HOME=$(/usr/libexec/java_home)
 
-4.5 Salve o arquivo
+4.5. Salve o arquivo
 
 4.6. Source the arquivo e escreva $JAVA_HOME:
 
@@ -59,15 +59,8 @@ source ~/.zshenv _OU_ source ~/.bash_profile
 % echo $JAVA_HOME
 /Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home
 
-🔸5. Feche o terminal e abra novamente
+🔸 5. Feche o terminal e abra novamente
 
-🔸6. Vamos conferir mais uma vez se o Java está instalado na nossa máquina
+🔸 6. Vamos conferir mais uma vez se o Java está instalado na nossa máquina
 
 java --version
-
-
-
-
-  
-
-
