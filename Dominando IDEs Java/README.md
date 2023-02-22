@@ -31,6 +31,22 @@ java -version
 
 🔸 4. Vamos configurar o ambiente JAVA_HOME:
 
+🔺 Instalação Eclipse
+
+🔸 1. Entre no site oficial do Eclipse Foundation e faça o DOWNLOAD O site já identifica o sistema operacional e você escolhe qual arquitetura de hardware do seu Mac, no caso o meu é o Intel x86_64
+
+🔸 2. Você clica no executor de extensào .dmg e depois em Eclipse Installer
+
+🔸 3. Escolha segunda a opção: Eclipse IDE for Enterprise Java and Web Developers
+
+🔸 4. Clique no folder da primeira opção e selecione o JDK que instalamos na nossa máquina.
+
+🔸 5. Install
+
+🔸 9. Launch
+
+🔸 10. Pronto, intalação concluída!
+
 4.1. Verificar o caminho da instalação do Java:
 
 /usr/libexec/java_home
