@@ -10,6 +10,8 @@
   
   :white_check_mark: Configurando o ícone no Dock
   
+  :white_check_mark: Instalação Git
+  
   :white_check_mark: Instalação do IntelliJ
 
 :apple: MACOS
@@ -105,3 +107,52 @@ java --version
 🔸 8. Launch
 
 🔸 9. Pronto, intalação concluída!
+
+🔺 Configurando o ícone do Eclipse IDE no Dock
+
+Clicar com botao direito no ícone do Eclipse >> opcoes >> Manter no Dock
+
+🔺 Instalação IntelliJ IDEA Community
+
+🔸 1. Entre no site ofical do INTELLIJ
+
+🔸 2. Escolha a opção Community e faça o download
+
+🔸 3. Descompacte a pasta e vamos para o terminal
+
+🔸 4. Abra o terminal (Ctrl + Alt + t) e entre no diretório que você descompactou No meu caso, na pasta Downloads Ideal
+
+cd Downloads/IdealC
+🔸 5. Entre na pasta bin
+
+cd bin
+🔸 6. Execute o arquivo de instalação idea.sh
+
+./idea.sh
+
+🔺 Instalação Git
+
+🔸 1. Abra o terminal e vamos verificar se temos o git instalado:
+
+git --version
+
+🔸 2. Execute o comando:
+
+brew install git
+
+🔸3. Confirme novamente se o git realmente está instalado:
+
+git --version
+
+🔸 4. Vamos começar as configurações iniciais:
+
+​ 4.1 Cofigurar o nome de usuário
+
+sudo git config --global user.name "Seu nome"
+​ 4.2 Configurar o endereço de e-mail: ​ É de suma importância que o ENDEREÇO DE E-MAIL SEJA O MESMO DO GITHUB afim de evitar conflitos!
+
+sudo git config --global user.email seuemail@email.br
+​ 4.3 Vamos conferir a lista de configurações:
+
+git config --list
+🔸 5. Pronto, git instalado e configurado com sucesso!
