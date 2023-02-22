@@ -12,7 +12,7 @@
   
   :white_check_mark: Instalação do IntelliJ
 
-:logoapple: MACOS
+:apple: MACOS
 
 🔺 Instalação JDK Oracle
 O **JDK 17 LTS** é a última versao de longo suporte cujos binários são de uso gratuito sendo (https://www.oracle.com/downloads/licenses/no-fee-license.html)
