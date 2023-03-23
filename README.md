@@ -5,3 +5,4 @@
  - Dominando IDEs JAVA
  - Aprendendo Sintaxe Java
  - Lógica Condicional e Controle de Fluxos em Java
+ - Primeiros passos com JavaScript
